@@ -1,0 +1,23 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background: url(calc.jpg) no-repeat;
+	background-size: cover;
+}
+.div
+{
+	width: 400px;
+  	padding: 40px;
+  	top: 25%;
+  	left: 30%;
+  	position: absolute;
+  	text-align: center;
+	background: rgba(0,0,0,0.23);
+}
+h3
+{
+	color: white;
+	text-transform: uppercase;
+	font-weight: 450;
+}
