@@ -1,8 +1,8 @@
-body
+body, html
 {
 	margin: 0px;
 	padding: 0px;
-	background: url(calc.jpg) no-repeat;
+	background: url('https://i1.wp.com/onaircode.com/wp-content/uploads/2019/09/background-effect-1024x606.jpg?resize=1024%2C606&ssl=1') no-repeat;
 	background-size: cover;
 }
 .div
